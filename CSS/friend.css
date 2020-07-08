@@ -57,7 +57,16 @@
   opacity: 0.7;
 }
 
-.friend__now-listening i{
+.friend__now-listening i {
  font-size: 12px; 
  color: #52e084;
+}
+
+.friend__add-btn{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: #f5f5f5;
+  padding: 10px 15px;
+  border-radius: 5px;
 }
